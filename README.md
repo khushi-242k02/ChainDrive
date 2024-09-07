@@ -18,4 +18,7 @@
 </ul>
 
 <p>ChainDrive combines blockchain technology with decentralized storage to offer a robust and user-friendly solution for managing and sharing images securely.</p>
-
+<strong>References</strong>
+<p>https://hardhat.org/hardhat-runner/plugins/nomicfoundation-hardhat-ethers
+</p>
+<p>https://docs.ethers.org/v5/getting-started/#getting-started--connecting</p>
